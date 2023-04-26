@@ -2,7 +2,7 @@
 name = "myrec"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["jone <jone9966@naver.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
